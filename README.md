@@ -15,7 +15,7 @@
 HTML, CSS, JavaScript, ECMAScript, React - Hooks ~ useState, useEffect
 
 #### Packages
-[values.js](https://github.com/noeldelgado/values.js)
+[Values JS](https://github.com/noeldelgado/values.js)
 
 #### Deployment / Hosting
 Netlify
